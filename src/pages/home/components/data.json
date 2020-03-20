@@ -1,0 +1,226 @@
+[
+    {
+      "_id": "5aa4e31b93624d40d7cd8a5f",
+      "index": 0,
+      "guid": "11abf757-78cd-4996-b2b0-5f92090e072b",
+      "isActive": true,
+      "balance": "$2,534.94",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "brown",
+      "name": "Jane Forbes",
+      "gender": "female",
+      "company": "EVEREST",
+      "email": "janeforbes@everest.com",
+      "phone": "+1 (908) 490-3218",
+      "address": "<p>У Львівській духовній семінарії Святого Духа відбувся перший фестиваль семінарійних хорів «Ad fontes».</p> <p>Як зазначили ведучі, з латинської мови назва фестивалю перекладається «до джерел».</p> <p>Організовуючи фестиваль, семінаристи поставили собі на меті представити пісенну спадщину Церков Київської традиції, яка прославляє Господа у піснеспівах та висвітлює красу київського літургійного благочестя, що об’єднує Церкви Володимирового хрещення.</p> <p>Виступ дев'яти семінарійних хорів УГКЦ та ПЦУ з Тернополя, Ужгорода, Львова, Дрогобича на Першому фестивалю семінарійних хорів у Львівській духовній семінарії Святого Духа справив на глядачів неабияке враження, що супроводжувалося бурхливими оплесками.</p> <p>Недаремно ж кажуть, коли співає церковний хор, радіє душа, а коли співають у хорі богопосвячені семінаристи, які згодом стануть священиками і предстануть перед престолом для служіння Богові і людям із словом Божим, розкривається і плаче сльозами радості Небо, бо істинне слово проникає через спів у душі людські. І це правда.</p> <p>На завершення, із словами подяки та сподіваннями на масштабнішу участь хорів, до присутніх звернувся ректор ЛДС, о-др. Ігор Бойко, зазначивши, що до організації свята прикладено багато зусиль, але вони як і спів на славу Божу, славу українського народу. о.Ігор також подякував усім за присутність та сказав, що цьогорічний фестиваль буде традиційним і доброю нагодою, щоб збиратися знов і знов</p> <p>Після сьогоднішнього фестивалю, серце раділо, а душа наповнена піснеспівом хористів, переповнювалась спокоєм і любов'ю, і дуже хотілося ці моменти закрити на ключ у своїм серці, щоб найдовше притримати під замком..<br /> У фестивальному дійстві взяли участь хори семінарій, які виконували по три твори на церковну тематику київського літургійного благочестя.. Їх спів у храмі семінарії звучав неперевершено.. Здавалося, що глядачі чули аромат божественного розалію, бо як можна прокоментувати їх бурхливі оплески за кожним номером?!.. Прекрасний високодуховний концерт надовго залишиться у серці глядачів. Тому тут так і хочеться написати:</p> <p>Пісня, мов струни душі,<br /> голосом неба ЗВИВАЛАСЬ,<br /> а в серці теплом розкривались<br /> сакральні мотиви землі.<br /> Хотілось любов'ю зійти,<br /> сонячним стати світлом,<br /> і співати, мов пташка літом,<br /> коли день під покровом краси.<br /> Проникали слова в глибину,<br /> лопотіла вітрилами пісня,<br /> її полиск до неба рознісся...<br /> Мабуть, чули у Божім саду!</p> <p>\"Пісня душі\". Галина Фесюк, 2019</p> <p>Як сказав ректор Тернопільської Вищої духовної семінарії імені Патріарха Йосипа Сліпого УГКЦ отець Іван Римар, якому передали естафету проведення фестивалю на другий рік, \"Сьогоднішній Перший фестиваль семінарійних хорів, це глибоке пережиття релігійної традиції, це те що робить нас високолуховними українцями\".</p> <p>Завершуючи духовно-культурний захід, ректор Ігор Бойко за участь у Першому фестивалі семінаристських хорів нагородив Подяками кожний колектив в особі регента чи художнього керівника хору..</p> <p>Що ж, файне місто Тернопіль перейняли естафету і наступного 2020 року хори поїдуть туди.. А нам, глядачам, залишається лише очікувати на нові проекти львівських семінаристів..</p> <p>Автор матеріалу: Галина ФЕСЮК</p> <p>Фото - мої і з сайту ЛДС</p> ",
+      "registered": "2015-06-16T06:09:54 -03:00",
+      "latitude": 23.631137,
+      "longitude": 87.701391,
+      "tags": [
+        "cillum",
+        "ut",
+        "magna",
+        "eu",
+        "exercitation",
+        "anim",
+        "quis"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Cobb Mann"
+        },
+        {
+          "id": 1,
+          "name": "Hernandez Bryant"
+        },
+        {
+          "id": 2,
+          "name": "Elsie Hodge"
+        }
+      ],
+      "greeting": "Hello, Jane Forbes! You have 5 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "5aa4e31b923af6362a8175ba",
+      "index": 1,
+      "guid": "ed4a6acd-259b-4bc7-898a-d616543b30a9",
+      "isActive": false,
+      "balance": "$1,227.86",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "green",
+      "name": "Shelby Mccullough",
+      "gender": "female",
+      "company": "AMTAP",
+      "email": "shelbymccullough@amtap.com",
+      "phone": "+1 (937) 588-2384",
+      "address": "377 Beadel Street, Reinerton, Alabama, 5893",
+      "about": "Elit do fugiat consequat mollit. Excepteur ea dolore pariatur deserunt veniam laboris sit anim duis laborum. Dolor cupidatat eu ad dolore id excepteur qui magna velit eu.\r\n",
+      "registered": "2017-06-23T04:02:01 -03:00",
+      "latitude": 75.328628,
+      "longitude": -136.460195,
+      "tags": [
+        "aliqua",
+        "consectetur",
+        "ut",
+        "incididunt",
+        "esse",
+        "ullamco",
+        "exercitation"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Golden Barker"
+        },
+        {
+          "id": 1,
+          "name": "Dixon Cantrell"
+        },
+        {
+          "id": 2,
+          "name": "Jasmine Pitts"
+        }
+      ],
+      "greeting": "Hello, Shelby Mccullough! You have 1 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "5aa4e31b568ba86614692511",
+      "index": 2,
+      "guid": "099b4460-9de0-445d-883b-c6357d274470",
+      "isActive": false,
+      "balance": "$3,374.96",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "green",
+      "name": "Clarice Parrish",
+      "gender": "female",
+      "company": "XEREX",
+      "email": "clariceparrish@xerex.com",
+      "phone": "+1 (988) 547-2225",
+      "address": "232 Union Avenue, Brantleyville, Arkansas, 2028",
+      "about": "Deserunt consectetur mollit mollit Lorem. Veniam aliqua qui proident minim incididunt eiusmod nostrud adipisicing deserunt culpa aute in. Exercitation cillum incididunt eiusmod cupidatat non velit incididunt excepteur aliqua sint elit pariatur cupidatat.\r\n",
+      "registered": "2017-10-25T03:16:51 -03:00",
+      "latitude": 25.376099,
+      "longitude": 22.431975,
+      "tags": [
+        "ipsum",
+        "est",
+        "non",
+        "ea",
+        "est",
+        "nulla",
+        "cillum"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mia Schneider"
+        },
+        {
+          "id": 1,
+          "name": "Harriet Montoya"
+        },
+        {
+          "id": 2,
+          "name": "Mayer Ayala"
+        }
+      ],
+      "greeting": "Hello, Clarice Parrish! You have 3 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5aa4e31be8639a57b6cf8e84",
+      "index": 3,
+      "guid": "b361386f-6e2c-4d3f-a5be-2fc6493fe1d3",
+      "isActive": true,
+      "balance": "$2,402.26",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Penelope Sexton",
+      "gender": "female",
+      "company": "IPLAX",
+      "email": "penelopesexton@iplax.com",
+      "phone": "+1 (922) 555-2710",
+      "address": "204 Highland Boulevard, Whipholt, Northern Mariana Islands, 4190",
+      "about": "Nulla ea minim eu mollit tempor. Cillum incididunt incididunt et magna anim laborum in enim ea Lorem occaecat excepteur. Velit ex consectetur pariatur labore ut consectetur est adipisicing culpa excepteur eiusmod reprehenderit mollit. Occaecat occaecat Lorem exercitation in adipisicing fugiat. Mollit elit consectetur ad est do elit. Tempor adipisicing ut do consectetur tempor dolor.\r\n",
+      "registered": "2017-11-27T01:54:05 -02:00",
+      "latitude": 89.994525,
+      "longitude": 129.442515,
+      "tags": [
+        "nulla",
+        "ea",
+        "elit",
+        "non",
+        "sunt",
+        "est",
+        "consectetur"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Margo Hayes"
+        },
+        {
+          "id": 1,
+          "name": "Francine Wiley"
+        },
+        {
+          "id": 2,
+          "name": "Weber Davidson"
+        }
+      ],
+      "greeting": "Hello, Penelope Sexton! You have 3 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5aa4e31bff37f96e7a8d9154",
+      "index": 4,
+      "guid": "e61a1167-cb4b-420f-a7ff-9b383e191324",
+      "isActive": true,
+      "balance": "$1,862.04",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Beulah Stewart",
+      "gender": "female",
+      "company": "QABOOS",
+      "email": "beulahstewart@qaboos.com",
+      "phone": "+1 (807) 562-3261",
+      "address": "983 Fairview Place, Dunnavant, Kansas, 7109",
+      "about": "Ipsum enim proident dolore ut consectetur aliquip proident non. Pariatur quis excepteur minim qui dolor excepteur et irure. Duis mollit ut cupidatat sunt ex proident in. Sunt aliquip adipisicing mollit in elit laboris fugiat duis et. Anim fugiat eu culpa veniam enim ea tempor incididunt velit fugiat. Quis eiusmod duis consectetur et pariatur veniam excepteur ea incididunt cupidatat nisi elit amet quis.\r\n",
+      "registered": "2015-03-29T03:45:43 -03:00",
+      "latitude": 41.894564,
+      "longitude": 60.182302,
+      "tags": [
+        "sint",
+        "labore",
+        "elit",
+        "dolore",
+        "nisi",
+        "aliquip",
+        "adipisicing"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Church Mckinney"
+        },
+        {
+          "id": 1,
+          "name": "Faith Sanford"
+        },
+        {
+          "id": 2,
+          "name": "Bates Decker"
+        }
+      ],
+      "greeting": "Hello, Beulah Stewart! You have 7 unread messages.",
+      "favoriteFruit": "banana"
+    }
+  ]

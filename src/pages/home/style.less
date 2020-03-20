@@ -1,0 +1,82 @@
+@import '~antd/es/style/themes/default.less';
+@import './utils/utils.less';
+
+.coverCardList {
+  margin-bottom: -24px;
+  // width: calc(100% - 100px);
+  margin: 0 auto;
+  padding-bottom: 100px;
+  -webkit-transition: margin 0.3s ease;
+  -moz-transition: margin 0.3s ease;
+  -ms-transition: margin 0.3s ease;
+  -o-transition: margin 0.3s ease;
+  transition: margin 0.3s ease;
+
+  .card {
+    :global {
+      .ant-card-meta-title {
+        margin-bottom: 4px;
+        & > a {
+          display: inline-block;
+          max-width: 100%;
+          color: @heading-color;
+        }
+      }
+      .ant-card-meta-description {
+        height: 44px;
+        overflow: hidden;
+        line-height: 22px;
+      }
+    }
+
+    &:hover {
+      :global {
+        .ant-card-meta-title > a {
+          color: @primary-color;
+        }
+      }
+    }
+  }
+
+  .cardItemContent {
+    display: flex;
+    height: 20px;
+    margin-top: 16px;
+    margin-bottom: -4px;
+    line-height: 20px;
+    & > span {
+      flex: 1;
+      color: @text-color-secondary;
+      font-size: 12px;
+    }
+    .avatarList {
+      flex: 0 1 auto;
+    }
+  }
+  .cardList {
+    margin-top: 24px;
+  }
+
+  :global {
+    .ant-list .ant-list-item-content-single {
+      max-width: 100%;
+    }
+    .featured-image-holder {
+      display: block;
+      min-height: 35px;
+      left: 0;
+      right: 0;
+      top: 0;
+      .featured-post-image {
+        height: 320px;
+        overflow: hidden;
+        img {
+          width: 100%;
+        }
+      }
+    }
+    .grid-post {
+      padding: 0 0px 0 70px;
+    }
+  }
+}

@@ -1,0 +1,106 @@
+@import '~antd/es/style/themes/default.less';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.colorWeak {
+  filter: invert(80%);
+}
+@import "~antd/lib/style/index";
+
+.container {
+    width: 100%;
+    display: flex;
+    align-self: center;
+    margin: 0 auto;
+}
+
+.make-container(@minWidth, @breakpoint) {
+    @media (min-width: @minWidth) {
+        .container {
+            max-width: @breakpoint;
+        }
+    }
+}
+
+.make-container(@screen-xs-min, @screen-xs);
+.make-container(@screen-sm-min, @screen-sm);
+.make-container(@screen-md-min, @screen-md);
+.make-container(@screen-lg-min, @screen-lg);
+.make-container(@screen-xl-min, @screen-xl);
+
+.ant-layout {
+  min-height: 100vh;
+  background-color: transparent !important;
+}
+
+canvas {
+  display: block;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ant-pro-basicLayout {
+  width: 100%;
+  height: 100%;
+}
+
+.ant-pro-top-nav-header-logo {
+  width: auto !important;
+  img {
+    height: 56px !important;
+    padding: 0px 10px;
+  }
+}
+.ant-pro-top-nav-header-main {
+  display: flex;
+  height: 64px;
+  padding-left: 0 !important;
+}
+
+.ant-pro-page-header-wrap-page-header-warp {
+  background-color: #eeeeee !important;
+}
+
+.ant-pro-page-header-wrap-children-content {
+  margin: 0px 0px 0 !important;
+  padding: 24px;
+  background-color: #ffffff;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.ant-layout-footer {
+  background: transparent !important;
+  .ant-pro-global-footer-copyright,
+  a {
+    color: #848484 !important;
+  }
+}
+
+@media (max-width: @screen-xs) {
+  .ant-table {
+    width: 100%;
+    overflow-x: auto;
+    &-thead > tr,
+    &-tbody > tr {
+      > th,
+      > td {
+        white-space: pre;
+        > span {
+          display: block;
+        }
+      }
+    }
+  }
+}
